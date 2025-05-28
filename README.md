@@ -1,6 +1,6 @@
-📚 Technologies Used
-Language: Python
+## 📚 Technologies Used
+- Language: Python
 
-API: TensorFlow Keras
+- API: TensorFlow Keras
 
-Tools: Google Collab
+- Tools: Google Collab
