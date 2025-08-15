@@ -2,8 +2,6 @@
 • Leveraged image augmentation and Google Colab for efficient training and performance tracking.
 
 ## 📚 Technologies Used
-- Language: Python
-
 - API: TensorFlow Keras
 
 - Tools: Google Collab
